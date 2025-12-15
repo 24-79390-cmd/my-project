@@ -98,14 +98,6 @@ movies = {
     ]
 }
 
-# Emojis used to decorate each genre
-genre_emojis = {
-    "Action": "🔥",
-    "Comedy": "😂",
-    "Drama": "🎭",
-    "Horror": "👻",
-    "Sci-Fi": "🚀"
-}
 
 # ---------------- UI SETUP ---------------- #
 # This section creates the main window and basic styles.
